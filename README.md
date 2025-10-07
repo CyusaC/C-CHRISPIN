@@ -51,7 +51,7 @@ I'm a **Fullstack Developer** and  Learner based in Kigali, Rwanda. I love turni
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=P-Rwirangira&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyusa c&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Rwirangira&layout=compact&theme=radical)
 
 
