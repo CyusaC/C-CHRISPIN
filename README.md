@@ -1,4 +1,4 @@
-# C-CHRISPIN  
+# CyusaC
 
 # Hello, I'm Cyusa Chrispin 👋
 
