@@ -2,8 +2,7 @@
 
 # Hello, I'm Cyusa Chrispin 👋
 
-[![LINKED IN](https://www.linkedin.com/in/cyusa-chrispin-2389a5374/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rwirangira.netlify.app)
+
 
 ## 💫 About Me
 I'm a **Fullstack Developer** and  Learner based in Kigali, Rwanda. I love turning challenges into solutions and enjoy every bit of learning that comes with the journey.
