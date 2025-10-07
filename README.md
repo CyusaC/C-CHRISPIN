@@ -1,6 +1,6 @@
 # C-CHRISPIN  
 
-# Hello, I'm Cyusa C 👋
+# Hello, I'm Cyusa Chrispin 👋
 
 [![LINKED IN](https://www.linkedin.com/in/cyusa-chrispin-2389a5374/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rwirangira.netlify.app)
